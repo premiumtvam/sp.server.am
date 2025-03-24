@@ -63,6 +63,8 @@ http://stream01.vnet.am/Channel_121/mono.m3u8
 https://edge54.dc.beltelecom.by/ont/_definst_/ont/chunklist_w1304540193.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="Общероссийские",БелРос
+https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2538.png" group-title="Общероссийские",Беларусь 1 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w749522209_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2539.png" group-title="Общероссийские",Беларусь 2 HD
