@@ -41,6 +41,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 https://tv.streams.baikal-telecom.net/U/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",5 канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal" tvg-logo="https://i.imgur.com/pYHhWVZ.png" group-title="Общероссийские",8 канал
+http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний INT
