@@ -13,9 +13,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntvserial" tvg-rec="7" tvg-logo="http://epg.one/img/1754.png" group-title="Общероссийские",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="style" tvg-rec="7" tvg-logo="http://epg.one/img/1754.png" group-title="Общероссийские",НТВ Стиль
+#EXTINF:-1 tvg-id="style" tvg-rec="7" tvg-logo="http://epg.one/img/1755.png" group-title="Общероссийские",НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntvpravo" tvg-rec="7" tvg-logo="http://epg.one/img/2041.png" group-title="Общероссийские",НТВ Право
+#EXTINF:-1 tvg-id="ntvpravo" tvg-rec="7" tvg-logo="http://epg.one/img/1753.png" group-title="Общероссийские",НТВ Право
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
