@@ -101,22 +101,6 @@ http://stream01.vnet.am/Bober/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ 
-https://tvcdnpotok.com/Y0CHVTM8hmSx7jfBvUwaLg/504/1742946294/index.m3u8
-#EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema
-https://tvcdnpotok.com/dtR7tUhy33ebQTuZNIJ9ew/104/1742930800/index.m3u8
-#EXTINF:-1 tvg-id="premialnoehd" tvg-logo="http://epg.one/img/2732.png" group-title="Кино",Премиальное HD
-https://tvcdnpotok.com/OzZZ8nDFnVGFZVtGioUyUQ/134/1742938193/index.m3u8
-#EXTINF:-1 tvg-id="ostrosujetnoe" tvg-logo="http://epg.one/img/1588.png" group-title="Кино",Остросюжетное HD
-https://tvcdnpotok.com/_qZVtRcyz5fzFSir6QrPQA/578/1742937580/index.m3u8
-#EXTINF:-1 tvg-id="ostrosujetnoe" tvg-logo="http://epg.one/img/2309.png" group-title="Кино",Шокирующее HD
-https://tvcdnpotok.com/7LxY6kuocVfXfPnEK7tMlQ/169/1742937816/index.m3u8
-#EXTINF:-1 tvg-id="dushevnoehd" tvg-logo="http://epg.one/img/2019.png" group-title="Кино",Душевное HD
-https://tvcdnpotok.com/CccogFX2PxNVAPVdtfVA-g/172/1742938582/index.m3u8
-#EXTINF:-1 tvg-id="dushevnoehd" tvg-logo="http://epg.one/img/2772.png" group-title="Кино",Романтичное HD
-https://tvcdnpotok.com/7JFtKVvdnTm-okUles4dVQ/505/1742938771/index.m3u8
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="http://epg.one/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
-https://tvcdnpotok.com/eQzXUBs8WhsWTT45aYOnhQ/235/1742938045/index.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
@@ -255,8 +239,6 @@ http://31.148.48.15/Ani/index.m3u8
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/715.png" group-title="Музыкальные",Музыка Первого
-https://tvcdnpotok.com/NnU1dTPYHPfBtt8wA_WwuQ/225/1742930586/index.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 INT
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
