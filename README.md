@@ -103,8 +103,14 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema
 https://tvcdnpotok.com/dtR7tUhy33ebQTuZNIJ9ew/104/1742930800/index.m3u8
-#EXTINF:-1 tvg-id="ostrosujetnoe" tvg-logo="http://epg.one/img/1588.png" group-title="Кино",Остросюжетное
+#EXTINF:-1 tvg-id="premialnoehd" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Премиальное HD
+https://tvcdnpotok.com/OzZZ8nDFnVGFZVtGioUyUQ/134/1742938193/index.m3u8
+#EXTINF:-1 tvg-id="ostrosujetnoe" tvg-logo="http://epg.one/img/1588.png" group-title="Кино",Остросюжетное HD
 https://tvcdnpotok.com/_qZVtRcyz5fzFSir6QrPQA/578/1742937580/index.m3u8
+#EXTINF:-1 tvg-id="ostrosujetnoe" tvg-logo="http://epg.one/img/2309.png" group-title="Кино",Шокирующее HD
+https://tvcdnpotok.com/7LxY6kuocVfXfPnEK7tMlQ/169/1742937816/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="http://epg.one/img/3357.png" group-title="Кино",Мосфильм. Золотая коллекция
+https://tvcdnpotok.com/eQzXUBs8WhsWTT45aYOnhQ/235/1742938045/index.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
