@@ -25,19 +25,6 @@ http://stream02.vnet.am/HTB/mono.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС HD
 http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.000000,
-https://zabava-block-htvod.cdn.ngenix.net/index0.ts
-#EXTINF:10.000000,
-https://zabava-block-htvod.cdn.ngenix.net/index1.ts
-#EXTINF:10.000000,
-https://zabava-block-htvod.cdn.ngenix.net/index2.ts
-#EXTINF:10.000000,
-https://zabava-block-htvod.cdn.ngenix.net/index3.ts
-#EXT-X-ENDLIST
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС INT
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love
