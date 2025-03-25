@@ -103,7 +103,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema
 https://tvcdnpotok.com/dtR7tUhy33ebQTuZNIJ9ew/104/1742930800/index.m3u8
-#EXTINF:-1 tvg-id="premialnoehd" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Премиальное HD
+#EXTINF:-1 tvg-id="premialnoehd" tvg-logo="http://epg.one/img/2732.png" group-title="Кино",Премиальное HD
 https://tvcdnpotok.com/OzZZ8nDFnVGFZVtGioUyUQ/134/1742938193/index.m3u8
 #EXTINF:-1 tvg-id="ostrosujetnoe" tvg-logo="http://epg.one/img/1588.png" group-title="Кино",Остросюжетное HD
 https://tvcdnpotok.com/_qZVtRcyz5fzFSir6QrPQA/578/1742937580/index.m3u8
