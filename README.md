@@ -35,6 +35,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ INT
+https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
