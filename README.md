@@ -101,7 +101,7 @@ http://stream01.vnet.am/Bober/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ HD
+#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ 
 https://tvcdnpotok.com/Y0CHVTM8hmSx7jfBvUwaLg/504/1742946294/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema
 https://tvcdnpotok.com/dtR7tUhy33ebQTuZNIJ9ew/104/1742930800/index.m3u8
