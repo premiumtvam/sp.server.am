@@ -322,9 +322,12 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RUSSIA HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
+#EXTINF:-1 tvg-id="mixtv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/181490.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",МУЗ-ТВ
+#EXTVLCOPT:HTTP Uzer Agent
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://epg.one/img/2277.png" group-title="Музыкальные",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
