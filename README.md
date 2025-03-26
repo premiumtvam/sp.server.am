@@ -84,7 +84,8 @@ https://smotret.tv/iframes/krasnaya-liniya.m3u8
 #EXTINF:-1 tvg-id="vremya" tvg-rec="7" tvg-logo="http://epg.one/img/669.png" group-title="Общероссийские",Время
 https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ3
-http://stream01.vnet.am/Channel_121/mono.m3u8
+#EXTVLCOPT:HTTP Uzer Agent
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-id="тсв" tvg-logo="https://i.imgur.com/YVVX66d.png" group-title="Общероссийские",ТСВ
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 tvg-id="oht-hd" tvg-logo="http://epg.one/img/2545.png" group-title="Общероссийские",ОНТ FHD
