@@ -530,3 +530,8 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",СТС
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
