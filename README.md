@@ -29,9 +29,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС INT
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love
+#EXTINF:-1 tvg-id="ctc-love" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-id="ctc-love" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love TS
+#EXTINF:-1 tvg-id="ctc-love" tvg-logo="http://epg.one/img/1322.png",СТС Love TS
 #EXTGRP:Российские
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (SmartTV) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
