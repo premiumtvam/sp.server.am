@@ -20,7 +20,7 @@ http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://epg.one/img/7258.png" group-title="Общероссийские",НТВ Мир
-http://stream02.vnet.am/HTB/mono.m3u8
+https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://epg.one/img/7258.png" group-title="Общероссийские",НТВ Мир TEST
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
