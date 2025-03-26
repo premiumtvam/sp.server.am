@@ -60,7 +60,7 @@ https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ +4
 #EXTVLCOPT:HTTP Uzer Agent
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ INT
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
