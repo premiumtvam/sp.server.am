@@ -95,8 +95,6 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/57kbhVA.png" group-title="Общероссийские",Вместе-РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2672.png" group-title="Общероссийские",9 канал Израиль
-https://s.xittv.net/v2eS-x2O33xm8wdl0jFQzQ/185/1742998204/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/kiyyMkv.png" group-title="Общероссийские",Твоё ТВ Юмор HD
