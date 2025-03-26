@@ -246,8 +246,6 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="aiva" tvg-logo="http://epg.one/img/2837.png" group-title="Музыкальные",AIVA
 https://goo.su/F1U5ln
-#EXTINF:-1 tvg-id="jara" tvg-logo="http://epg.one/img/165.png" group-title="Музыкальные",Жара
-https://goo.su/ofAqJEm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="Музыкальные",m2o TV HD
