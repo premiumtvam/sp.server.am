@@ -325,7 +325,7 @@ https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:-1 tvg-id="mixtv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/181490.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",МУЗ-ТВ
+#EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:HTTP Uzer Agent
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://epg.one/img/2277.png" group-title="Музыкальные",RU TV HD
