@@ -375,6 +375,8 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",HD Life
+http://fs2.persik.by/HDL/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
 http://178.219.128.68:64889/HGTVHD
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
@@ -387,6 +389,8 @@ http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/367.png" group-title="Познавательные",ZooПарк
+http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild
