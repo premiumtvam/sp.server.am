@@ -599,16 +599,6 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
-
-EXTINF:0 tvg-logo="https://i.ibb.co/t8tNW9N/Music-TV.png" tvg-id="no_epg_music" tvg-name="NO_EPG_Music" group-title="GG & CC", EuroDance TV HD :: MUSIC (m3u8) CatCast.tv/EuroDanceTV
-#EXTVLCOPT:http-user-agent=SmartSDK
-#--- http://v2.catcast.tv/content/39803/index.m3u8
-#-X- EXTINF:0 tvg-logo="https://i.ibb.co/t8tNW9N/Music-TV.png" tvg-id="no_epg_music" tvg-name="NO_EPG_Music" group-title="GG & CC", EuroDance 90s HD :: MUSIC (m3u8) CatCast.tv/Best90
-#EXTVLCOPT:http-user-agent=SmartSDK
-#--- http://eurodance90.catcast.tv/content/36987/index.m3u8
-#--- https://eurodance.catcast.tv/content/36987/index.m3u8
-#--- http://autopilot.catcast.tv/content/36987/index.m3u8
-
 EXTINF:0 tvg-logo="https://i.ibb.co/Z65br8g/Kinozal.png" tvg-id="kino18plus-tviksel" tvg-name="Кино_18+" group-title="GG & CC", КИНО 18 + HD (Em3u8) VK.com/TvikselTV
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://05293b01.ottolok.net/iptv/5FRTASC825NL7B/18075/index.m3u8
