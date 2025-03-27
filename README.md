@@ -168,7 +168,7 @@ https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
-http://stream02.vnet.am.185.174.138.23/Kinokhit/tracks-v1a1/mono.m3u8
+http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
