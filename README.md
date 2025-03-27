@@ -308,9 +308,6 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",eurodance90
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="aiva" tvg-logo="http://epg.one/img/2837.png" group-title="Музыкальные",AIVA
 https://goo.su/F1U5ln
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
@@ -602,3 +599,12 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
+
+EXTINF:0 tvg-logo="https://i.ibb.co/t8tNW9N/Music-TV.png" tvg-id="no_epg_music" tvg-name="NO_EPG_Music" group-title="GG & CC", EuroDance TV HD :: MUSIC (m3u8) CatCast.tv/EuroDanceTV
+#EXTVLCOPT:http-user-agent=SmartSDK
+#--- http://v2.catcast.tv/content/39803/index.m3u8
+#-X- EXTINF:0 tvg-logo="https://i.ibb.co/t8tNW9N/Music-TV.png" tvg-id="no_epg_music" tvg-name="NO_EPG_Music" group-title="GG & CC", EuroDance 90s HD :: MUSIC (m3u8) CatCast.tv/Best90
+#EXTVLCOPT:http-user-agent=SmartSDK
+#--- http://eurodance90.catcast.tv/content/36987/index.m3u8
+#--- https://eurodance.catcast.tv/content/36987/index.m3u8
+#--- http://autopilot.catcast.tv/content/36987/index.m3u8
