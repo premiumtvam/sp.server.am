@@ -608,3 +608,7 @@ EXTINF:0 tvg-logo="https://i.ibb.co/t8tNW9N/Music-TV.png" tvg-id="no_epg_music" 
 #--- http://eurodance90.catcast.tv/content/36987/index.m3u8
 #--- https://eurodance.catcast.tv/content/36987/index.m3u8
 #--- http://autopilot.catcast.tv/content/36987/index.m3u8
+
+EXTINF:0 tvg-logo="https://i.ibb.co/Z65br8g/Kinozal.png" tvg-id="kino18plus-tviksel" tvg-name="Кино_18+" group-title="GG & CC", КИНО 18 + HD (Em3u8) VK.com/TvikselTV
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://05293b01.ottolok.net/iptv/5FRTASC825NL7B/18075/index.m3u8
