@@ -308,6 +308,9 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",eurodance90
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="aiva" tvg-logo="http://epg.one/img/2837.png" group-title="Музыкальные",AIVA
 https://goo.su/F1U5ln
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
