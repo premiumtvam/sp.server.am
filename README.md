@@ -72,6 +72,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/3037.png" group-title="Общероссийские",ТВ Центр +4
 #EXTVLCOPT:HTTP Uzer Agent
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ3
+#EXTVLCOPT:HTTP Uzer Agent
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ-3 +4
+#EXTVLCOPT:HTTP Uzer Agent
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
+#EXTVLCOPT:HTTP Uzer Agent
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/3011.png" group-title="Общероссийские",Домашний +4
+#EXTVLCOPT:HTTP Uzer Agent
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний INT
+http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
 #EXTVLCOPT:HTTP Uzer Agent
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
@@ -91,14 +105,6 @@ https://tv.streams.baikal-telecom.net/U/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="https://i.imgur.com/pYHhWVZ.png" group-title="Общероссийские",8 канал
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
-#EXTVLCOPT:HTTP Uzer Agent
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/3011.png" group-title="Общероссийские",Домашний +4
-#EXTVLCOPT:HTTP Uzer Agent
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 tvg-id="domashnij-hd" tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний INT
-http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pyatnizza-hd" tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница!
 #EXTVLCOPT:HTTP Uzer Agent
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
@@ -113,9 +119,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
 #EXTINF:-1 tvg-id="vremya" tvg-rec="7" tvg-logo="http://epg.one/img/669.png" group-title="Общероссийские",Время
 https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
-#EXTINF:-1 tvg-id="tv3-hd" tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ3
-#EXTVLCOPT:HTTP Uzer Agent
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-id="тсв" tvg-logo="https://i.imgur.com/YVVX66d.png" group-title="Общероссийские",ТСВ
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 tvg-id="oht-hd" tvg-logo="http://epg.one/img/2545.png" group-title="Общероссийские",ОНТ FHD
