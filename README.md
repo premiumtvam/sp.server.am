@@ -164,6 +164,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Ultra HD Cinema FulHD
+#EXTVLCOPT:HTTP Uzer Agent
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
@@ -305,8 +306,6 @@ http://31.148.48.15/Ani/index.m3u8
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MusicBoxRussia.ru" tvg-logo="https://i.imgur.com/iWJdeD1.png" group-title="Музыкальные",Music Box Россия (1080p)
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 INT
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
