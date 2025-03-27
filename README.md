@@ -392,6 +392,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img/2278.png" group-title="Музыкальные",Шансон ТВ
 https://stream01.vnet.am/ShansonTv/index.m3u8
+#EXTINF:-1 tvg-id="Морской.ру" tvg-logo="https://i.imgur.com/t9LLmKV.png" group-title="Не определено",Морской 
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC HD
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
