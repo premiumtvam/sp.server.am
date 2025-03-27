@@ -599,6 +599,6 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
-EXTINF:0 tvg-logo="https://i.ibb.co/Z65br8g/Kinozal.png" tvg-id="kino18plus-tviksel" tvg-name="Кино_18+" group-title="GG & CC", КИНО 18 + HD (Em3u8) VK.com/TvikselTV
+#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://05293b01.ottolok.net/iptv/5FRTASC825NL7B/18075/index.m3u8
