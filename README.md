@@ -273,8 +273,11 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
+#EXTINF:-1 tvg-id="chipdeil.ru" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://i.imgur.com/QlZKBAE.png" group-title="Детский",Солнце 
+http-user-agent=WINK/1.34.1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/uuV98uu.png" group-title="Детский",Мультимания 
