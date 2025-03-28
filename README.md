@@ -199,6 +199,8 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD 
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2447.png" group-title="Кино",Победа HD
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
