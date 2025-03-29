@@ -234,6 +234,8 @@ https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru/hls/176975.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеосалон HD
+https://v2.catcast.tv/content/40391/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5357.png" group-title="Кинозалы",Akudji TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/5346.m3u8
