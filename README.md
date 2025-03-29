@@ -623,10 +623,3 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: telemadrit" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",TV1000 Action HD
-#EXTVLCOPT:HTTP Uzer Agent
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",TV1000 HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",TV1000 Русское кино HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8
