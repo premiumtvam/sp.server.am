@@ -617,11 +617,11 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1
 https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/profile/0/profileManifest.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/mYRoPWW.png" group-title="Зарубежные",14 Channel IL
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/9yXdcVm.png" group-title="Зарубежные",Cine Sony SP	
+#EXTINF:-1 tvg-id="iz_:IL: CineSony" tvg-logo="https://i.imgur.com/9yXdcVm.png" group-title="Зарубежные",Cine Sony SP	
 https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/mpiy2VJ.png" group-title="Зарубежные",Aragon TV HD SP
+#EXTINF:-1 tvg-id="iz_:IL: Aragontv" tvg-logo="https://i.imgur.com/mpiy2VJ.png" group-title="Зарубежные",Aragon TV HD SP
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
+#EXTINF:-1 tvg-id="iz_:IL: telemadrit" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",TV1000 Action HD
 #EXTVLCOPT:HTTP Uzer Agent
