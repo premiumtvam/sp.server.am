@@ -505,11 +505,11 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports HD
 http://stream01.vnet.am/Channel_131/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Dubai Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tls7iiA.png" group-title="Спортивные",Dubai Sports
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oANYmqo.png" group-title="Спортивные",Dubai Sports 2 HD
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Dubai Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIzfrQz.png" group-title="Спортивные",Dubai Sports 3 HD
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5700.png" group-title="Спортивные",Fc real madrid tv HD
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
