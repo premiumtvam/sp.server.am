@@ -183,6 +183,8 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kino24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Кино",Kino 24 
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ
