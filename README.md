@@ -183,7 +183,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Cinema 
+#EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
@@ -435,6 +435,8 @@ https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
 http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:-1 tvg-id="glazamiturista" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные",Глазами туриста HD
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
