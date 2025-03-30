@@ -3,7 +3,7 @@
 #EXTVLCOPT:HTTP Uzer Agent
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +4
 #EXTVLCOPT:HTTP Uzer Agent
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
