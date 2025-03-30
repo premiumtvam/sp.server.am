@@ -645,9 +645,3 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: telemadrit" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/29082024/logos/9620-66d0db3b606d1.png",Malder Мегахит
-https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/20092024/logos/9620-66edaa66c14bf.png",Malder Ужас
-https://autopilot.catcast.tv/content/47764/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/04102024/logos/47180-66ffee511bc05.png",Малдер Кинозал
-https://autopilot.catcast.tv/content/47180/index.m3u8
