@@ -419,7 +419,7 @@ http://rtmp.one.by:2300
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC HD
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",Sunset Space HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDuRlfe.png" group-title="Познавательные",Sunset Space HD
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
