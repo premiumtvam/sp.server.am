@@ -233,7 +233,7 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpX54fw.png" group-title="Кинозалы",VHDV TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpX54fw.png" group-title="Кинозалы",VHDV TV 5.1
 #EXTVLCOPT:http-user-agent=SmartTV
 https://ix.goodgame.ru/hls/214536.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="Кинозалы",4K Hits 
@@ -437,8 +437,6 @@ https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 tvg-id="glazamiturista" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные",Глазами туриста HD
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
