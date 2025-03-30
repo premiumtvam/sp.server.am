@@ -643,5 +643,3 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: telemadrit" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
 https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
-#EXTINF:-1 group-title="Фильмовые 📽" tvg-id="ultra-hd-cinema-4k",Ultra HD Cinema 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
