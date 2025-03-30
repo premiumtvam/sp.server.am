@@ -183,6 +183,18 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",TV1000 Русское кино
+http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",VIP Comedy HD
+http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",VIP Megahit HD
+http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",VIP Premiere HD
+http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/BN50RvB.png" group-title="Кино",Sunset Serial HD
