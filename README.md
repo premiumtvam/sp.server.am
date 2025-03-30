@@ -182,6 +182,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Остросюжетное HD
+#EXTVLCOPT:HTTP Uzer Agent
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/8883.png" group-title="Кино",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
