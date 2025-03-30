@@ -479,9 +479,7 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 http://stream02.vnet.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",Investigation Discovery HD
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",Discovery Science HD
-https://livetv.mylifeisgood.net.ru/channels/discoveryscience.m3u8
-#EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery Channel HD
+#EXTINF:-1 tvg-id="discovery-hd" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
