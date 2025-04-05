@@ -176,7 +176,7 @@ http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/1371.png" group-title="Кино",Amedia 1
 http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино",Amedia 2
-http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
+http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD
