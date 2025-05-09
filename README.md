@@ -155,10 +155,6 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/BN50RvB.png" group-title="Кино",Sunset Serial HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
-#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/SkAVD3c.png" group-title="Кино",,Sunset Fantastic HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
@@ -306,8 +302,6 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="misic 2 int" tvg-logo="https://i.imgur.com/N7e0OEk.png" group-title="Музыкальные",Sunset Music HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
 #EXTINF:-1 tvg-id="aiva" tvg-logo="http://epg.one/img/2837.png" group-title="Музыкальные",AIVA
 https://goo.su/F1U5ln
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
@@ -397,8 +391,6 @@ http://rtmp.one.by:2300
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC HD
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PDuRlfe.png" group-title="Познавательные",Sunset Space HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
