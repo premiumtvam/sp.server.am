@@ -115,8 +115,6 @@ http://ott-cdn.ucom.am/s20/03.m3u8
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
 #EXTINF:-1 tvg-id="vremya" tvg-rec="7" tvg-logo="http://epg.one/img/669.png" group-title="Общероссийские",Время
 https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
-#EXTINF:-1 tvg-id="тсв" tvg-logo="https://i.imgur.com/YVVX66d.png" group-title="Общероссийские",ТСВ
-https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 tvg-id="oht-hd" tvg-logo="http://epg.one/img/2545.png" group-title="Общероссийские",ОНТ FHD
 https://edge54.dc.beltelecom.by/ont/_definst_/ont/chunklist_w1304540193.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
@@ -135,8 +133,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVWJxgO.png" group-title="Общероссийские",Каскад тв
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/57kbhVA.png" group-title="Общероссийские",Вместе-РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/kiyyMkv.png" group-title="Общероссийские",Твоё ТВ Юмор HD
@@ -260,8 +256,6 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sunsetkids" tvg-logo="https://i.imgur.com/5n2ch7S.png" group-title="Детский",Sunset Kids HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 tvg-id="chipdeil.ru" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце 
