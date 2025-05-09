@@ -115,8 +115,6 @@ http://ott-cdn.ucom.am/s20/03.m3u8
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
 #EXTINF:-1 tvg-id="vremya" tvg-rec="7" tvg-logo="http://epg.one/img/669.png" group-title="Общероссийские",Время
 https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
-#EXTINF:-1 tvg-id="oht-hd" tvg-logo="http://epg.one/img/2545.png" group-title="Общероссийские",ОНТ FHD
-https://edge54.dc.beltelecom.by/ont/_definst_/ont/chunklist_w1304540193.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="Общероссийские",БелРос
@@ -217,9 +215,6 @@ http://hls.goodgame.ru/hls/205072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ily2wsg.png" group-title="Кинозалы",Fks Films HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/209426.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYSNpid.png" group-title="Кинозалы",Katastroff HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/208789.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v8DZcXJ.png" group-title="Кинозалы",KinoJam HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/manifest/210182_master.m3u8
@@ -410,14 +405,10 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
-http://178.219.128.68:64889/HGTVHD
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/a9ea1cdb-4757-41dc-bdb6-06ed5c102a4e/2.m3u8
 #EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature 4k
