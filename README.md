@@ -447,8 +447,6 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
@@ -473,8 +471,6 @@ https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b400
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",FIFA+ HD
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="2904" tvg-logo="http://epg.one/img/2904.png" group-title="Спортивные",TVP Sport HD
-https://irylek.ct8.pl/stream/tvpsport
 #EXTINF:-1 tvg-logo="http://epg.one/img/6039.png" group-title="Спортивные",Red Bull TV HD
 http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUwpedo.png" group-title="Спортивные",Motor Racing
@@ -541,14 +537,6 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="TownTownik TV-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2390.png" group-title="Армения",տունտունիկ
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-id="4496" tvg-logo="http://epg.one/img/4496.png" group-title="Зарубежные",TVP 1 HD PL
-https://irylek.ct8.pl/stream/tvp1hd
-#EXTINF:-1 tvg-id="4497" tvg-logo="http://epg.one/img/4497.png" group-title="Зарубежные",TVP 2 HD PL
-https://irylek.ct8.pl/stream/tvp2hd
-#EXTINF:-1 tvg-logo="http://epg.one/img/4489.png" group-title="Зарубежные",TVP 3 HD PL
-https://irylek.ct8.pl/stream/tvp3warszawahd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dobFXNH.png" group-title="Зарубежные",TVP Historia HD PL
-https://irylek.ct8.pl/stream/tvphistoria
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR DE
@@ -569,8 +557,6 @@ https://str.yodacdn.net/aztv/index.m3u8
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8?token=1733281436/0f2c4ddbf0a334e0f6b97412ecb7fbfa
 #EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/2636.png" group-title="Зарубежные",CBC Sport AZ
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxjaMLk.png" group-title="Зарубежные",Adjara TV GE
-https://dvrfl05.tulix.tv/gin-adjara/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAyOjQ2OjIzIFBNJmhhc2hfdmFsdWU9NWlHYmNTNmdTR2JicDhZUVFUamdaUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTEw
 #EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Зарубежные",1TV Georgia GE
