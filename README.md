@@ -191,7 +191,7 @@ http://195.9.195.3:8080/hls/204708.m3u8
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
 #EXTVLCOPT:http-user-agent=SmartTV
-https://ix.goodgame.ru/hls/214536.m3u8
+https://ix.goodgame.ru/hls/214536.m3u8?expires=1750878107&token=9FarwyHbXAR7kVK1T5xPnA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="Кинозалы",4K Hits 
 #EXTVLCOPT:http-user-agent=SmartTV
 https://ix.goodgame.ru/hls/206513.m3u8
