@@ -292,8 +292,8 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/20000/index.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Veles Магнитофон
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31645/index.m3u8
-#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Bridge Deluxe
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/904/index.m3u8
+#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",VF Music
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/15516/index.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 INT
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
