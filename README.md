@@ -437,8 +437,6 @@ https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",Viju+ Sport
 http://stream02.vnet.am/AutoPlus/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",Megogo Sport
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31612/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
