@@ -456,7 +456,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
 http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/211/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2005.png" group-title="Спортивные",Матч! Футбол 3 HD
 http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="http://epg.one/img/2003.png" group-title="Спортивные",Матч! Арена
