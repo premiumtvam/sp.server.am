@@ -139,9 +139,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/5006/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/904/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
