@@ -137,7 +137,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/1eogU4V.png" group-title="Кино",VHS-ка HD
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/5006/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/1eogU4V.png" group-title="Кино",Yosso vhs
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
@@ -288,8 +288,6 @@ http://31.148.48.15/Ani/index.m3u8
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные", Eurodance 90
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/20000/index.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Veles Магнитофон
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31645/index.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",VF Music
