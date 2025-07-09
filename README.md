@@ -80,7 +80,7 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
-http://195.9.195.3:8080/hls/204708.m3u8
+https://ritsatv.ru/mobile-version/movie-id900787-1filmax-fantastika
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="Кинозалы",VHDV TV 
@@ -98,9 +98,6 @@ https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5357.png" group-title="Кинозалы",Akudji TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6bJFcU.png" group-title="Кинозалы",VKTV CINEMA HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/173945.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="Кинозалы",Alpha Cinema HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru/hls/205072.m3u8
