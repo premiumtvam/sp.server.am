@@ -137,8 +137,6 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sunsetkids" tvg-logo="https://i.imgur.com/5n2ch7S.png" group-title="Детский",Sunset Kids HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 #EXTINF:-1 tvg-id="chipdeil.ru" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/uuV98uu.png" group-title="Детский",Мультимания 
@@ -208,8 +206,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RUSSIA HD
 https://132544.edgevideo.ru/streams/132544_713325/132544720/index.m3u8
 #EXTINF:-1 tvg-id="mixtv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/181490.m3u8
+http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://epg.one/img/2277.png" group-title="Музыкальные",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
