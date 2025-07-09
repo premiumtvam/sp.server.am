@@ -75,10 +75,6 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/BN50RvB.png" group-title="Кино",Sunset Serial HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/9.m3u8
-#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="https://i.imgur.com/SkAVD3c.png" group-title="Кино",,Sunset Fantastic HD
-https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
@@ -98,8 +94,7 @@ http://195.9.195.3:8080/hls/204709.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru/hls/176975.m3u8
+https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5357.png" group-title="Кинозалы",Akudji TV HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/5346.m3u8
