@@ -133,8 +133,6 @@ https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DO0zyKo.png" group-title="Музыкальные",PMC TV
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="pulse-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/ImFTf4v.png" group-title="Музыкальные",PMC Royale
-https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/883tY0N.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/Ix4SGNc.png" group-title="Музыкальные",Muzzik ZZ
@@ -183,8 +181,6 @@ http://89.179.247.144/hls/mixm.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="bridge-rok-ruxit" tvg-logo="http://epg.one/img/6188.png" group-title="Музыкальные",Bridge Rock
-https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
