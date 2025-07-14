@@ -263,8 +263,6 @@ http://45.159.74.22/Channel_130/tracks-v1a1/mono.m3u8
 http://45.11.139.43:8555/norhayastan/index.m3u8
 #EXTINF:-1 tvg-id="kentron-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2065.png" group-title="Армения",Կենտրոն
 http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hay-kino-am" tvg-rec="7" tvg-logo="http://epg.one/img/2397.png" group-title="Армения",հայ կինո
-http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV
 http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV
