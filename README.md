@@ -243,8 +243,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://epg.one/img/1679.png" group-title="Спортивные",Конный мир HD
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e6fHxuW.png" group-title="Спортивные",Волейбол
-https://salam-mskth-75.rutube.ru/dive/river-3-311.rtbcdn.ru/lmUAfG8pHK7MJpsFNLr0xA/stream/genetta-315.m9.rutube.ru/cn76ausxTPBSaCI5DLzv7A/1753078833/cc1b56aa4955a144f324ad58998513bb/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք HD
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="http://epg.one/img/5930.png" group-title="Армения",Լուրեր HD
