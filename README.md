@@ -83,8 +83,6 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="Кинозалы",VHDV TV 
 https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="Кинозалы",Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
@@ -191,6 +189,10 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные",Дикая охота HD
+https://s1.merlive.am/dikayaoxota/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные",Дикая рыбалка HD
+https://s1.merlive.am/dikaiaribalka/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2741.png" group-title="Познавательные",Food Network 
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
