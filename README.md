@@ -183,26 +183,10 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://songtv.hls.iptvdc.com/web-russia/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
-http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
-http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2483.png" group-title="Познавательные",Дикая охота HD
-https://s1.merlive.am/dikayaoxota/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2484.png" group-title="Познавательные",Дикая рыбалка HD
-https://s1.merlive.am/dikaiaribalka/index.m3u8
-#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2741.png" group-title="Познавательные",Food Network 
-http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/a9ea1cdb-4757-41dc-bdb6-06ed5c102a4e/2.m3u8
-#EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
-http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature 4k
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
