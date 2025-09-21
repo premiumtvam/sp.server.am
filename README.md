@@ -207,12 +207,6 @@ https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/1042.png" group-title="Спортивные",Матч! Футбол 2 HD
-http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2005.png" group-title="Спортивные",Матч! Футбол 3 HD
-http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tls7iiA.png" group-title="Спортивные",Dubai Sports
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oANYmqo.png" group-title="Спортивные",Dubai Sports 2 HD
@@ -225,16 +219,12 @@ https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b400
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",FIFA+ HD
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="2904" tvg-logo="http://epg.one/img/2904.png" group-title="Спортивные",TVP Sport HD
-https://irylek.ct8.pl/stream/tvpsport
 #EXTINF:-1 tvg-logo="http://epg.one/img/6039.png" group-title="Спортивные",Red Bull TV HD
 http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUwpedo.png" group-title="Спортивные",Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://epg.one/img/1679.png" group-title="Спортивные",Конный мир HD
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք HD
