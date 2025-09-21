@@ -23,7 +23,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС
 https://s.viks.tv/G9bEArpJ-VDCHNCnHjlRxw/591/1758466114/index.m3u8
-#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ
+#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="https://i.imgur.com/kx1uF0U.png" group-title="Общероссийские",ТНТ
 https://s.viks.tv/PDLX_ITyJDS0hRY-HIC4QQ/547/1758466025/index.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
 https://s.viks.tv/57dUlICmy0D2yLDmtSiplQ/543/1758465946/index.m3u8
@@ -77,7 +77,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
 https://s.viks.tv/t747OV2Q0omWRtpbrP-eXQ/578/1758464798/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Страшное HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjrVt8K.png" group-title="Кино",Страшное HD
 https://s.viks.tv/1-2gYfzJfKx9dieXf4wnCg/216/1758466290/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
