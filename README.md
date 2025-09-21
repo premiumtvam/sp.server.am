@@ -23,7 +23,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС
 https://s.viks.tv/G9bEArpJ-VDCHNCnHjlRxw/591/1758466114/index.m3u8
-#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4
+#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ
 https://s.viks.tv/PDLX_ITyJDS0hRY-HIC4QQ/547/1758466025/index.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
 https://s.viks.tv/57dUlICmy0D2yLDmtSiplQ/543/1758465946/index.m3u8
