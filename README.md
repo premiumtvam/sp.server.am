@@ -205,6 +205,16 @@ http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic
+http://stream02.vnet.am/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",Investigation Discovery HD
+http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+#EXTINF:-1 tvg-id="discovery-hd" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery HD
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
