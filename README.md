@@ -78,7 +78,7 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 1080
-https://89167.app-playlists.restream.su/live/20005/142cbc53-b977-4127-b16c-f460ad8198b4/live.m3u8
+https://89167.app-playlists.restream.su/live/20005/142cbc53-b977-4127-b16c-f460ad8198b4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rH2v5oU.png" group-title="Кинозалы",FILM_best TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
