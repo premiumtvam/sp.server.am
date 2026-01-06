@@ -77,11 +77,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 1080
-https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/chunks.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="2264" tvg-logo="https://i.imgur.com/5HD76RP.png" tvg-id="0",VHDV TV 1080
-https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/chunks.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="2264" tvg-logo="https://i.imgur.com/5HD76RP.png" url-tvg="https://raw.githubusercontent.com/premiumtvam/epgvhdvtv/refs/heads/main/README.md",VHDV TV 1080
+#EXTINF:-1 tvg-id="vhdvtv" tvg-rec="0" tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 1080
 https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rH2v5oU.png" group-title="Кинозалы",FILM_best TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/chunks.m3u8
