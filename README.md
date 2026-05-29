@@ -329,16 +329,12 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/01mtQ9s.png" group-title="Общероссийские",Вопросы и ответы
-https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь HD 
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 HD  
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance TV  
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9qOHpK3.png" group-title="Кино",HollywooD
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT 
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT 
@@ -402,7 +398,7 @@ http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
 https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc_5wAlf0XEifJD5RKqmHA&e=2074432391&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+https://bl.rutube.ru/livestream/c9b87c0b00cfff9b37f95b9c8e4eed42/index.m3u8?s=ELXH5x_d01mfs0pSY2s1KA&e=2079863246&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Новости",360 HD
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
@@ -419,8 +415,6 @@ https://clck.ru/3F6ZUK
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2266.png" group-title="Новости",Euronews HD 
 https://stream01.vnet.am/Channel_119/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G6H5745.png" group-title="Детский",Капитан Фантастика 
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл HD 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ HD
@@ -476,12 +470,6 @@ http://stream02.vnet.am/DisneyChannel/mono.m3u8
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IWZYjjr.png" group-title="Детский",Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GYcAoFP.png" group-title="Детский",Duck TV
-https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bHdYkTI.png" group-title="Детский",Пингвин HD
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
@@ -584,18 +572,12 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZCo7YI.png" group-title="Познавательные",Наша Сибирь HD
-https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные",Insight TV HD
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkFE5e9.png" group-title="Познавательные",Точка Отрыва
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://clck.ru/3T2YZK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
@@ -610,12 +592,6 @@ https://stream01.vnet.am/365Dney/index.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdEGZYl.png" group-title="Познавательные",Живая Планета
-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qXp0JD7.png" group-title="Познавательные",В мире животных HD
-https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnJCWcn.png" group-title="Познавательные",Домашние Животные HD
-https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
@@ -634,8 +610,6 @@ http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ccZAku3.png" group-title="Спортивные",АВТО 24
-https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygeAADY.png" group-title="Спортивные",Тонус ТВ
 http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
