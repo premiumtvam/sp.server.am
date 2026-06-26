@@ -318,6 +318,8 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w7495222
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2540.png" group-title="Общероссийские",Беларусь 3 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8Lc76W.png" group-title="Общероссийские",Беларусь 4 HD
+https://ngtrk.dc.beltelecom.by/vtv/_definst_/bt4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
@@ -505,6 +507,10 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vXE0dU.png" group-title="Музыкальные",Now 80s
+https://lightning-now80s-rakuten.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEQTuuo.png" group-title="Музыкальные",Now 90s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock HD
@@ -595,8 +601,12 @@ https://stream01.vnet.am/365Dney/index.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
-http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fDyl1E.png" group-title="Познавательные",BBC Earth HD
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMVfiqO.png" group-title="Познавательные",Love The Planet HD
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8SSFS19.png" group-title="Познавательные",Love Nature HD
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet 
