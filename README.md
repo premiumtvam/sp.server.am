@@ -505,6 +505,10 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYQ6C9y.png" group-title="Музыкальные",Retro Music
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",Retro Plus
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5vXE0dU.png" group-title="Музыкальные",Now 80s
@@ -605,6 +609,8 @@ https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8Y
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMVfiqO.png" group-title="Познавательные",Love The Planet HD
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/miCq4o0.png" group-title="Познавательные",Nature Time HD
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8SSFS19.png" group-title="Познавательные",Love Nature HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
