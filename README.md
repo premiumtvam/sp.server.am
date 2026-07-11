@@ -336,8 +336,6 @@ http://stream01.vnet.am/Bober/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kiyyMkv.png" group-title="Общероссийские",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 HD  
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance TV  
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT 
@@ -420,6 +418,8 @@ https://clck.ru/3F6ZUK
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2266.png" group-title="Новости",Euronews HD 
 https://stream01.vnet.am/Channel_119/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXOTWkD.png" group-title="Новости",Russia Today HD
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл HD 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ HD
@@ -525,8 +525,8 @@ https://stream01.vnet.am/Channel_122/mono.m3u8
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CDSoEy3cC2NFV1quU4ns0Q&e=2074183309&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJjwKUr.png" group-title="Музыкальные",RU.TV HD
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=NKI9YQarYYdkmRCh_pmLRg&e=2074181255&scheme=https
-#EXTINF:-1 tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD
-https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=5wllm8r4LDOrVr7WzloFRw&e=2081343525&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные",Oxygen Music HD
+https://oxygenmusic.hu:2443/hls/oxygenmusic_2200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="Музыкальные",m2o TV HD
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aTrqfYZ.png" group-title="Музыкальные",Activa TV HD
@@ -646,6 +646,8 @@ http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5700.png" group-title="Спортивные",FC REAL MADRID TV 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eOZjQHh.png" group-title="Спортивные",BARCA TV HD
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",FIFA+ HD
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Спортивные",SKY SPORT PREMIER LEAGUE HD
