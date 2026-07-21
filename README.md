@@ -342,6 +342,8 @@ http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT 
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pecqoNv.png" group-title="Кино",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD 
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино HD 
@@ -366,6 +368,21 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4oHr3Ky.png" group-title="Кинозалы",CPS Action HD
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2J5O32.png" group-title="Кинозалы",CPS Fresh HD
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OfUmQuq.png" group-title="Кинозалы",CPS Comedy HD
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNqVx3s.png" group-title="Кинозалы",CPS Mix HD
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4J2Kb.png" group-title="Кинозалы",CPS Drama HD
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGkjWbU.png" group-title="Кинозалы",CPS Detective HD
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1BDaKiR.png" group-title="Кинозалы",CPS Fiction HD
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji TV HD
 http://kinowalk.hopto.org/akudjitv_live
