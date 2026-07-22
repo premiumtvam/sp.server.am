@@ -388,29 +388,29 @@ http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QWjhr6.png" group-title="Кинозалы",Legion TV HD 
 http://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8LN3lH.png" group-title="Кинозалы",Akudji TV HD
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZKMbiG.png" group-title="Кинозалы",Kinowalk HD
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rLiDgdd.png" group-title="Кинозалы",KinoMix HD
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mo9Ac3E.png" group-title="Кинозалы",Video-Arsenal HD
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdIs4Aq.png" group-title="Кинозалы",KinoJam HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiD7DEm.png" group-title="Кинозалы",KinoJam HD
 http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DjFhVVS.png" group-title="Кинозалы",MovieToper HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hYUQ6zY.png" group-title="Кинозалы",MovieToper HD
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZemO33G.png" group-title="Кинозалы",kinolampa HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBAT7r2.png" group-title="Кинозалы",kinolampa HD
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VsHvlwd.png" group-title="Кинозалы",Blockbusters Time HD
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UKgvCzR.png" group-title="Кинозалы",TimeToMovie HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKqx982.png" group-title="Кинозалы",TimeToMovie HD
 http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8HHDq.png" group-title="Кинозалы",TimeToHorror HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYHAwzQ.png" group-title="Кинозалы",TimeToHorror HD
 http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы",Video_Prokat HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgV1mko.png" group-title="Кинозалы",Video_Prokat HD
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwHY8ay.png" group-title="Кинозалы",VHS Forever HD
 http://kinowalk.hopto.org/vhs-forever_live
