@@ -342,8 +342,6 @@ http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT 
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pecqoNv.png" group-title="Кино",Кинопоказ HD
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD 
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино HD 
@@ -388,8 +386,6 @@ http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QWjhr6.png" group-title="Кинозалы",Legion TV HD 
 http://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8LN3lH.png" group-title="Кинозалы",Akudji TV HD
-http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZKMbiG.png" group-title="Кинозалы",Kinowalk HD
