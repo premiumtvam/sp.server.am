@@ -399,6 +399,8 @@ http://kinowalk.hopto.org/kasseta_live
 http://kinowalk.hopto.org/russerials_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nww0QKG.png" group-title="Кинозалы",ТВОЙ КИНОТЕАТР HD
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2YH3Txv.png" group-title="Кинозалы",EPIC MEDIA HD
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=bbR5lsePqZxDCCVhOuH6cg&e=2087491427&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5XaWf6.png" group-title="Кинозалы",AMAZON PRIME VIDEO ROMANCE HD
