@@ -405,7 +405,6 @@ https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=bb
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIfcswa.png" group-title="Кинозалы",AMAZON PRIME VIDEO MEN'S CLUB HD
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=uagq7qyIq4Aezo9xxqoWOA&e=2087404567&scheme=https
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
 https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc_5wAlf0XEifJD5RKqmHA&e=2074432391&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
@@ -428,6 +427,8 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 https://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXOTWkD.png" group-title="Новости",Russia Today HD
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPzm5RC.png" group-title="Детский",Mr.Bean ТВ HD
+https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3p0Goka.png" group-title="Детский",Мультфильмы VHS HD
 http://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл HD 
@@ -513,6 +514,8 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные",Bridge TV Classic
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r67V4uU.png" group-title="Музыкальные",MTV HD
+http://kinowalk.hopto.org/vovanb_iptv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuUgVWo.png" group-title="Музыкальные",VB Eurodance hits 90s HD
 http://kinowalk.hopto.org/vb_edh90sanddh90s_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjWBsI.png" group-title="Музыкальные",VB Русская Попса 80х-90х HD
