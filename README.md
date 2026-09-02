@@ -24,8 +24,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3001.png" group-title="Плюсовые",Россия 1 +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3001.png" group-title="Плюсовые",Россия 1 HD +4
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/711.png" group-title="Плюсовые",Россия 1 +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
@@ -395,8 +393,7 @@ http://kinowalk.hopto.org/video_prokat_live
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FaeFQAD.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 HD
 http://kinowalk.hopto.org/kasseta_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dtfx3C0.png" group-title="Кинозалы",VB Российские сериалы HD
-http://kinowalk.hopto.org/russerials_live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2YH3Txv.png" group-title="Кинозалы",EPIC MEDIA HD
