@@ -393,6 +393,8 @@ http://kinowalk.hopto.org/video_prokat_live
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FaeFQAD.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 HD
 http://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dtfx3C0.png" group-title="Кинозалы",VB Российские сериалы HD
+http://kinowalk.hopto.org/russerials_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
