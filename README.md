@@ -395,9 +395,11 @@ http://kinowalk.hopto.org/vhs-forever_live
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кинозалы",Star Media HD
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=FabXp0a_iO4SLO3EW-QvNQ&e=2088603429&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2YH3Txv.png" group-title="Кинозалы",EPIC MEDIA HD
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=bbR5lsePqZxDCCVhOuH6cg&e=2087491427&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XsVWATy.png" group-title="Кинозалы",MARVEL STUDIOS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcRZ1Jb.png" group-title="Кинозалы",MARVEL STUDIOS HD
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=AzUB-Gms9hE0oLppbm_Cyg&e=2088602683&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5XaWf6.png" group-title="Кинозалы",AMAZON PRIME VIDEO ROMANCE HD
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
