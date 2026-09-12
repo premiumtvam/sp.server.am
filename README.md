@@ -595,10 +595,12 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihNHu2y.png" group-title="Музыкальные",Trace Brazuca HD
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный BY HD 
-http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный BY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://rtmp.one.by:1300/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
-rtmp://rtmp.one.by:2300
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://rtmp.one.by:2300/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC 
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC HD
